@@ -514,6 +514,10 @@ body {
     display: none;
   }
 
+  .navbar {
+    justify-content: space-between;
+  }
+
   .navbar ul {
     display: none;
     gap: 40px;
